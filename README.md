@@ -132,5 +132,6 @@ app/src/main/java/com/example/
 ---
 
 ## 📄 License & Credits
-Designed and architected based on the **PRISM Project Plan (Version 1.0)** prepared for **Pratimesh Tonde**.
+Designed and architected based on the **PRISM Project Plan (Version 1.0)
+Designed and Developed by Pratimesh Tonde
 All rights reserved © 2026 PRISM AI Studio.
