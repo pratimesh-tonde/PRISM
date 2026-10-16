@@ -1,0 +1,6 @@
+{
+  "name": "Prism",
+  "description": "Prism - AI Photo Editing Studio. Photoshop-grade canvas with layers, AI Orchestrator prompt planning, background removal, generative fill, smart retouching, and non-destructive editing.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

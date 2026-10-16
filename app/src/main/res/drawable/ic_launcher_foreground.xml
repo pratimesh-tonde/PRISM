@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Incoming Light Ray -->
+    <path
+        android:fillColor="#E2E8F0"
+        android:pathData="M22,53 L45,51 L46,55 L22,57 Z" />
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M44,53m-2.5,0a2.5,2.5 0,1 1,5 0a2.5,2.5 0,1 1,-5 0" />
+
+    <!-- Dispersed Spectral Rays -->
+    <!-- Red Ray -->
+    <path
+        android:fillColor="#F43F5E"
+        android:pathData="M62,49 L88,38 L88,42 L63,51 Z" />
+    <!-- Amber Ray -->
+    <path
+        android:fillColor="#FB923C"
+        android:pathData="M63,51 L89,46 L89,50 L64,53 Z" />
+    <!-- Yellow Ray -->
+    <path
+        android:fillColor="#FACC15"
+        android:pathData="M64,53 L90,54 L90,58 L64,55 Z" />
+    <!-- Cyan Ray -->
+    <path
+        android:fillColor="#06B6D4"
+        android:pathData="M64,55 L89,62 L89,66 L63,57 Z" />
+    <!-- Violet Ray -->
+    <path
+        android:fillColor="#A855F7"
+        android:pathData="M63,57 L86,70 L86,74 L62,59 Z" />
+
+    <!-- Prism Body Base & Facets -->
+    <path
+        android:fillColor="#336366F1"
+        android:pathData="M54,28 L34,74 L54,68 Z" />
+    <path
+        android:fillColor="#4DA855F7"
+        android:pathData="M54,28 L74,74 L54,68 Z" />
+
+    <!-- Prism Crystal Outer Wireframe -->
+    <path
+        android:strokeColor="#FFFFFF"
+        android:strokeWidth="2.5"
+        android:strokeLineJoin="round"
+        android:fillColor="#00000000"
+        android:pathData="M54,28 L34,74 L74,74 Z" />
+    <path
+        android:strokeColor="#FFFFFF"
+        android:strokeWidth="1.5"
+        android:strokeAlpha="0.8"
+        android:fillColor="#00000000"
+        android:pathData="M54,28 L54,68" />
+    <path
+        android:strokeColor="#FFFFFF"
+        android:strokeWidth="1.2"
+        android:strokeAlpha="0.6"
+        android:fillColor="#00000000"
+        android:pathData="M34,74 L54,68 L74,74" />
+
+    <!-- Sparkle Stars -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M54,22 L55.5,25 L58.5,26.5 L55.5,28 L54,31 L52.5,28 L49.5,26.5 L52.5,25 Z" />
+    <path
+        android:fillColor="#38BDF8"
+        android:pathData="M30,38 L31,40 L33,41 L31,42 L30,44 L29,42 L27,41 L29,40 Z" />
+    <path
+        android:fillColor="#F43F5E"
+        android:pathData="M80,32 L81,34 L83,35 L81,36 L80,38 L79,36 L77,35 L79,34 Z" />
+</vector>
