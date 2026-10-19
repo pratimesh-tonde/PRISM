@@ -205,7 +205,7 @@ app/src/main/java/com/example/
 - Android SDK 36 (Minimum SDK: 24)
 - JDK 17 or JDK 21
 
-### Build & Run
+## 📦 Build & Install
 
 ```bash
 # Clone the repository
